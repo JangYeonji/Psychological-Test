@@ -1,4 +1,4 @@
-const url = 'https://ttesttttttt.netlify.app/';
+const url = 'https://youthful-lichterman-71d7e4.netlify.app/';
 
 function setShare(){
     var resultImg = document.querySelector('#resultImg');
